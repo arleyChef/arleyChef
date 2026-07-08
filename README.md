@@ -2,7 +2,7 @@
 
 **Blockchain Backend Engineer** building user-owned decentralized applications on Solana.
 
-[![GitHub Follow](https://img.shields.io/badge/dynamic/json?label=Follow&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmichaelpercy&style=social)](https://github.com/michaelpercy)
+[![GitHub Follow](https://img.shields.io/badge/dynamic/json?label=Follow&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmichaelpercy&style=social)](https://github.com/1arleysol)
 
 ---
 
@@ -69,8 +69,8 @@
 
 ## 📈 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelpercy&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpercy&layout=compact&theme=dark&hide_border=true)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=1arleysol&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1arleysol&layout=compact&theme=dark&hide_border=true)
 
 ---
 
