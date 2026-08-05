@@ -5,7 +5,7 @@ Founder: @v20swap (DEX) & ZRESERVE (Zcash).
 US$12K vol/17d on Hyperliquid (+PnL).  
 Open for collabs & microtasks.
 
-[![GitHub Follow](https://img.shields.io/badge/dynamic/json?label=Follow&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmichaelpercy&style=social)](https://github.com/1arleysol)
+[![GitHub Follow](https://img.shields.io/badge/dynamic/json?label=Follow&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmichaelpercy&style=social)](https://github.com/arleyChef)
 
 ---
 
@@ -65,15 +65,15 @@ Open for collabs & microtasks.
 ## 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zreserve.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1arleysol)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arleyChef)
 
 
 ---
 
 ## 📈 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=1arleysol&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1arleysol&layout=compact&theme=dark&hide_border=true)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=arleyChef&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arleyChef&layout=compact&theme=dark&hide_border=true)
 
 ---
 
