@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Arley "Chef"
 
-**Blockchain Backend Engineer** building user-owned decentralized applications on Solana.
+**Solana DeFi Engineer & Market Maker** Building autonomous agents & on-chain liquidity.  
+Founder: @v20swap (DEX) & ZRESERVE (Zcash).  
+US$12K vol/17d on Hyperliquid (+PnL).  
+Open for collabs & microtasks.
 
 [![GitHub Follow](https://img.shields.io/badge/dynamic/json?label=Follow&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmichaelpercy&style=social)](https://github.com/1arleysol)
 
