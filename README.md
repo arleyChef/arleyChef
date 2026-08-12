@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arley "Chef"
 
 **Solana DeFi Engineer & Market Maker** Building autonomous agents & on-chain liquidity.  
-Founder: @v20swap (DEX) & ZRESERVE (Zcash).  
+Founder: ZRESERVE (Custody Zcash).  
 US$12K vol/17d on Hyperliquid (+PnL).  
 Open for collabs & microtasks.
 
